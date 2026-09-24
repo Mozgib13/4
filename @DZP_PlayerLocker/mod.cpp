@@ -1,0 +1,11 @@
+name = "DZP Player Locker";
+picture = "";
+logo = "";
+logoSmall = "";
+logoOver = "";
+tooltip = "DZP Player Locker";
+overview = "Personal player locker for DayZ 1.29: invisible access point, standard TAB inventory, expansion up to 100 slots, server-side per-player JSON storage.";
+action = "";
+author = "Mozgib13";
+authorID = "";
+version = "1.1.0";
